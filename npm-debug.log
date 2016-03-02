@@ -7,8 +7,15 @@
 3 info using node@v5.7.0
 4 info git [ 'status', '--porcelain' ]
 5 verbose stack Error: Git working directory not clean.
+5 verbose stack M lib/index.js
+5 verbose stack M lib/utils.js
 5 verbose stack D npm-debug.log
 5 verbose stack M package.json
+5 verbose stack D rollup.config.es6.js
+5 verbose stack D rollup.config.js
+5 verbose stack D rollup.config.test.js
+5 verbose stack D rollup.config.umd.js
+5 verbose stack D test/index_test.js
 5 verbose stack     at /usr/local/lib/node_modules/npm/lib/version.js:246:19
 5 verbose stack     at ChildProcess.exithandler (child_process.js:193:7)
 5 verbose stack     at emitTwo (events.js:100:13)
@@ -24,8 +31,15 @@
 9 error node v5.7.0
 10 error npm  v3.6.0
 11 error Git working directory not clean.
+11 error M lib/index.js
+11 error M lib/utils.js
 11 error D npm-debug.log
 11 error M package.json
+11 error D rollup.config.es6.js
+11 error D rollup.config.js
+11 error D rollup.config.test.js
+11 error D rollup.config.umd.js
+11 error D test/index_test.js
 12 error If you need help, you may report this error at:
 12 error     <https://github.com/npm/npm/issues>
 13 verbose exit [ 1, true ]
