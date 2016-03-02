@@ -2,7 +2,7 @@
   "name": "ocularis-cube",
   "version": "0.0.2",
   "description": "Oculars sample component - cube.",
-  "main": "dist/ocularis-cube.umd.js",
+  "main": "dist/ocularis-cube.es6.js",
   "jsnext:main": "dist/ocularis-cube.es6.js",
   "scripts": {
     "prebuild": "eslint lib test",
