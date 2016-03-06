@@ -1,7 +1,7 @@
 {
   "name": "ocularis-cube",
   "version": "0.0.9",
-  "description": "Oculars sample component - cube.",
+  "description": "Ocularis sample component - cube.",
   "main": "./dist/index.js",
   "jsnext:main": "./dist/index.es6.js",
   "scripts": {
