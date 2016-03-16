@@ -1,0 +1,10 @@
+{
+  "name": "ocularis-cube",
+  "url": "git@github.com:cverna-hackathons/ocularis-cube.git",
+  "fields": [
+    {
+      "name": "Main text",
+      "type": "text"
+    }
+  ]
+}
